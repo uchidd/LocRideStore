@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LocRide Store</string>
+    <string name="start">Got it</string>
+    <string name="next">Next</string>
+    <string name="tesOnly"><![CDATA[KEEP YOUR HOOD ON & KEEP ON MOVIN]]></string>
+
+
+    <string name="a1">https://aglxy.com/shop/keep-your-hood-on-keep-on-movin-black</string>
+    <string name="a2">https://aglxy.com/shop/dont-let-the-straits-separate-coach-jacket-black</string>
+    <string name="a3">https://aglxy.com/shop/planet-main-source-001-pink</string>
+    <string name="a4">https://aglxy.com/shop/good-vibes-since-%E2%88%9E-008-ls-black</string>
+    <string name="a5">https://aglxy.com/shop/whatever-it-takes-008-black</string>
+
+    <string name="b1">https://www.billionairesproject.com/products/billionaires-project-t-shirt---richboy</string>
+    <string name="b2">https://www.billionairesproject.com/products/billionaires-project-t-shirt---make-money-not-love--black-</string>
+    <string name="b3">https://www.billionairesproject.com/products/billionaires-project-t-shirt---basic-longsleeve-black</string>
+    <string name="b4">https://www.billionairesproject.com/products/billionaires-project-outer---ss1-billpro-coach-jacket</string>
+    <string name="b5">https://www.billionairesproject.com/products/billionaires-project-t-shirt---ss1-basic-longsleeve--white-</string>
+
+    <string name="c1">https://wearecosmonauts.com/collections/tees/products/gold-bless-you</string>
+    <string name="c2">https://wearecosmonauts.com/collections/tees/products/space-club</string>
+    <string name="c3">https://wearecosmonauts.com/collections/jacket/products/war-of-the-worlds</string>
+    <string name="c4">https://wearecosmonauts.com/collections/tees/products/millionaire</string>
+    <string name="c5">https://wearecosmonauts.com/collections/tees/products/space-sushi</string>
+
+</resources>
